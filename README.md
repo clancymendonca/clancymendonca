@@ -26,4 +26,4 @@ I’m an MCA student at St. Joseph's University with a passion for app and full-
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=clancymendonca&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/clancymendonca/clancymendonca/blob/output/github-snake-dark.svg)
