@@ -27,3 +27,11 @@ I’m an MCA student at St. Joseph's University with a passion for app and full-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=clancymendonca&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=600&lines=Hi..+I'm+Clancy+Mendonca!;Welcome+to+my+Github!;This+is+my+profile.." alt="Typing SVG"/>
+    </h1>
+</div>
