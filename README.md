@@ -9,10 +9,11 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 MCA student at St. Joseph's University
-- 🔭 Currently building across **systems**, **fintech**, **healthtech**, and **AI-enabled apps**
-- 🌱 Learning deeply in **Rust**, **TypeScript**, **Python**, and product architecture
-- 🤝 Open to collaboration on high-impact, user-first projects
+- 🎓 MCA student at **St. Joseph's University**, building products that blend clean engineering with real-world impact
+- 🛠️ I design and ship across **systems**, **fintech**, **healthtech**, and **AI-powered experiences**
+- 📚 Currently leveling up in **Rust**, **TypeScript**, **Python**, and scalable product architecture
+- 🎯 Focused on building fast, useful, and user-first software from idea to deployment
+- 🤝 Open to collaborating on ambitious open-source and startup-driven projects
 
 ## 🌟 Featured Repositories (Latest)
 | Project | What it is |
