@@ -25,14 +25,6 @@
 | [**DailyPay**](https://github.com/clancymendonca/DailyPay) | Next.js 14 banking app with connected accounts and real-time transactions. |
 | [**Farmease**](https://github.com/clancymendonca/Farmease) | Smart greenhouse prototype with IoT sensors, alerts, and ML-based predictions. |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clancymendonca&repo=ClanOS&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clancymendonca&repo=CureDesk&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clancymendonca&repo=Cadence&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clancymendonca&repo=DailyPay&theme=tokyonight" />
-</p>
 
 ## 🧰 Tech Stack
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -49,10 +41,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=clancymendonca&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clancymendonca&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=clancymendonca&theme=tokyonight&hide_border=true" />
 </p>
